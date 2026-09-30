@@ -1,3 +1,5 @@
+PE #119: Static and Dynamic Modelling of the LLC Resonant DC-DC Converter (I)
+
 https://youtu.be/iNNzTAZOK9c
 
 In this video we continue with the static and dynamic analysis of resonant converters. This time we deal with the LLC resonant converter. This first part presents the derivation of the state-space (SS) non-linear great-signal model of the LLC converter and its implementation in Qspice. A comparison of simulation results using the full converter model and the SS non-linear model is shown using Qspice as computer simulator. The simulation of the SS model is much faster than the simulation of the full converter, while the simulation results are very similar. The video also shows how to obtain by simulation the control transfer function of the converter using both models. Other transfer functions can be obtained in the same manner as was explained in previous videos of this series about resonant converters.
